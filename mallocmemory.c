@@ -10,9 +10,9 @@ int main(){
     for(int i=0; i<n; i++){
         A[i] = i+1;
     }
-    free(A);
-    A=NULL;
+    // free(A);
+    // A=NULL;
     for(int i=0; i<n; i++){
-       printf(A[i]);
+       printf("%d", A[i]);
     }
 }
