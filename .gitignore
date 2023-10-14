@@ -1,3 +1,5 @@
 info.txt
 main
 mallocmemory
+callocmemory
+reallocmemory
